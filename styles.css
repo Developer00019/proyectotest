@@ -6,6 +6,7 @@ body {
     margin: 0;
     background-color: #ff8da1;
     color: #FFFFFF;
+    background-image: url("../fondo.jpg");
 }
 
 .container {
